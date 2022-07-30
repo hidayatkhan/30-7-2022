@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background:  url(zakat.jpg);
+    background-size: cover; background-position: 20px;
+    color:white;
+}
+h1{
+    color: yellow;
+    font-style: oblique;
+}
+h2{
+    color: chartreuse; font-size: 30px;
+}
+h3{
+    color: darkturquoise;
+    font-size: 30px;
+}
+
+button{
+    border-radius: 20px; color:white; background-color: blue; 
+    
+}
+button:hover{
+   background-color: chartreuse;
+   color: black;
+}
+
+p{
+    color: white; font-size: 20px;
+    
+}
+
+strong{
+    font-size: 25px; color: yellow;
+}
+
